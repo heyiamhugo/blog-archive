@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 5 Must-read books for designers	</title>
+	<atom:link href="/5-must-read-books-for-designers/feed/" rel="self" type="application/rss+xml" />
+	<link>/5-must-read-books-for-designers/</link>
+	<description>Hugo&#039;s Notes: Design and other thoughts from a designer.</description>
+	<lastBuildDate>Fri, 03 Nov 2023 14:28:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+</channel>
+</rss>
+
+<!-- plugin=object-cache-pro client=phpredis metric#hits=352 metric#misses=11 metric#hit-ratio=97.0 metric#bytes=188071 metric#prefetches=0 metric#store-reads=31 metric#store-writes=2 metric#store-hits=23 metric#store-misses=8 metric#sql-queries=4 metric#ms-total=60.39 metric#ms-cache=4.35 metric#ms-cache-avg=0.1359 metric#ms-cache-ratio=7.2 -->

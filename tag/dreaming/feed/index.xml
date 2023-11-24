@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dreaming Archives - Hugo&#039;s Notes</title>
+	<atom:link href="/tag/dreaming/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/dreaming/</link>
+	<description>Hugo&#039;s Notes: Design and other thoughts from a designer.</description>
+	<lastBuildDate>Mon, 16 Oct 2023 08:02:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/10/cropped-favicon-32x32.webp</url>
+	<title>Dreaming Archives - Hugo&#039;s Notes</title>
+	<link>/tag/dreaming/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>My Blogging Story: Why I Started and How You Can Start Right Now</title>
+		<link>/my-blogging-story-why-i-started-and-how-you-can-start-right-now/</link>
+					<comments>/my-blogging-story-why-i-started-and-how-you-can-start-right-now/#comments</comments>
+		
+		<dc:creator><![CDATA[Hugo]]></dc:creator>
+		<pubDate>Thu, 12 Oct 2023 16:30:06 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Change]]></category>
+		<category><![CDATA[Cloudflare]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[Domain]]></category>
+		<category><![CDATA[Dreamer]]></category>
+		<category><![CDATA[Dreaming]]></category>
+		<category><![CDATA[Father]]></category>
+		<category><![CDATA[Graphic Designer]]></category>
+		<category><![CDATA[Medium]]></category>
+		<category><![CDATA[Platform]]></category>
+		<category><![CDATA[Portugal]]></category>
+		<category><![CDATA[Social media]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Writing]]></category>
+		<guid isPermaLink="false">/?p=70</guid>
+
+					<description><![CDATA[<p>If you are reading this hello there! My name is Hugo and this is the first ever article I am writing for my blog. Writing isn’t easy, as a matter of fact, I haven’t actively written anything in ages, well at least in a longer format and not notes in my notebook. With this in [&#8230;]</p>
+<p>The post <a href="/my-blogging-story-why-i-started-and-how-you-can-start-right-now/">My Blogging Story: Why I Started and How You Can Start Right Now</a> appeared first on <a href="/">Hugo&#039;s Notes</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>If you are reading this hello there! <strong>My name is Hugo </strong>and this is the first ever article I am writing for my blog. Writing isn’t easy, as a matter of fact, I haven’t actively written anything in ages, well at least in a longer format and not notes in my notebook. With this in mind hopefully I can take you through my blogging origin story and explain why I started and <strong>how you can start right now!</strong> A question for sure arises to you fellow reader –<strong> why?</strong> Well, this isn’t exactly the easiest question to answer but my answer can be scaled down to one simple fact – <strong>I am a dreamer!</strong> </p>
+
+
+
+<figure class="wp-block-image size-large wp-duotone-unset-1"><img fetchpriority="high" decoding="async" width="1024" height="768" src="/wp-content/uploads/2023/10/nick-morrison-FHnnjk1Yj7Y-unsplash-1024x768.jpg" alt="a laptop and a cup on a table with the purpose of showing what your setup could be as someone starting their blog right now" class="wp-image-101" srcset="/wp-content/uploads/2023/10/nick-morrison-FHnnjk1Yj7Y-unsplash-1024x768.jpg 1024w, /wp-content/uploads/2023/10/nick-morrison-FHnnjk1Yj7Y-unsplash-300x225.jpg 300w, /wp-content/uploads/2023/10/nick-morrison-FHnnjk1Yj7Y-unsplash-768x576.jpg 768w, /wp-content/uploads/2023/10/nick-morrison-FHnnjk1Yj7Y-unsplash-1536x1152.jpg 1536w, /wp-content/uploads/2023/10/nick-morrison-FHnnjk1Yj7Y-unsplash-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Photo by <a href="https://unsplash.com/@nickmorrison?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Nick Morrison</a> on <a href="https://unsplash.com/photos/FHnnjk1Yj7Y?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
+
+
+
+<h4 class="wp-block-heading">In this article you are going to learn a little about the person behind the project &#8211; basically I&#8217;ll tell you why I started my blogging journey and how you can start yours!</h4>
+
+
+
+<p>My name as I previously mentioned is <strong>Hugo Carvalho</strong> and I’m a graphic designer from Portugal. Although I’m still at the very beginning of my career I’ve already had incredible experiences thanks to the fact I was always involved with <strong>volunteering</strong> and activist organizations from a very young age.</p>
+
+
+
+<p>My passion for volunteering and changing the world is as old as my passion for <strong>design</strong>, so it only makes sense<strong> I believe I can join both</strong> in one way or another.</p>
+
+
+
+<h2 class="wp-block-heading">Like father like son</h2>
+
+
+
+<p>I think a big part of telling you my blogging and personal story is related to the relationship I have with my dad –<strong> he’s awesome!</strong> </p>
+
+
+
+<p>Although not present in most of childhood he was and is a great parent, example and leader, he was the one who initially years ago <strong>made me want to become a designer</strong>, although to be honest at the time I didn’t knew it at all. </p>
+
+
+
+<p>Let me explain &#8211; my father has worked for the biggest printers in Portugal such as Lidergraf and Naveprinter as one of the very best printers they had.</p>
+
+
+
+<p>So as the story goes, one day my mom decided to take me to visit my dad late at work and this was basically <strong>officially the first time I fell in love with design</strong> as he showed me the huge rolls of paper, proofs of what he was printing, pantone reference books and of course the magnifying lens they use for proofing the projects.</p>
+
+
+
+<p>Looking back to it now as I’m writing this it’s funny how life has turned out and how we basically have a bunch of topics to talk about and we even could work together at the same company. It’s truly as the saying goes – <strong>like father like son</strong>.</p>
+
+
+
+<h2 class="wp-block-heading">The boy who dreamed</h2>
+
+
+
+<p>I’m such a huge dreamer and I’m not telling you this lightly <strong>I truly have a big relationship with dreaming.</strong> </p>
+
+
+
+<p>It makes me happy knowing that even if I can’t sometimes make all my dreams happen, I still continue to push new dreams into the equation,<strong> it’s a big part of who I am and what defines me.</strong></p>
+
+
+
+<p>When I was young, I would frequently imagine the world in the future, besides the fact that I thought flying cars would be around already I also dreamt about a different society than what we have now. A <strong>fairer, more equal world</strong> where humans would co-exist – no wars, no homelessness, no discrimination.</p>
+
+
+
+<p>Perhaps I dreamt and still dream too high but, in many ways, I hope to die knowing the world that little Hugo imagined was not just a mere dream.</p>
+
+
+
+<h2 class="wp-block-heading">Why Design = Change</h2>
+
+
+
+<p>One of my goals as a <strong>designer who cares about the world </strong>that surrounds him is to show that design has changed the world and can change the world, making it a better place. Although this isn’t the main reason why I’ve started this blog it hopefully helps to explain my thought process.</p>
+
+
+
+<p><strong>Design = Change</strong> is eventually one of my ultimate long-term dreams turned goals that I see culminating in a book about design for social change, the blog definitely helps with my writing situation but this is a long-term idea and concept that I want to explore.</p>
+
+
+
+<p>So hopefully now that you know<strong> </strong>a part of<strong> my story</strong> you can see what I mean and expand upon this concept in your own blogging story, but I still have to explain you why I started and how you can start right now &#8211; stay tuned!</p>
+
+
+
+<h2 class="wp-block-heading">Why I began a blog?</h2>
+
+
+
+<p>Well now we are reaching to an interesting part of my blogging story, so let me tell you how I started so we can get to the good part where I tell you how you can start <strong>right now!</strong> </p>
+
+
+
+<p>Recently I finished my bachelor’s degree in graphic design and after trying and failing to move to another country and get into a design agency (I will release an article about this one day) I stayed in Portugal and I’m now doing a nine-month internship in a multinational company at their marketing department, alongside this I’m kickstarting my own design studio (it&#8217;s still in early development).</p>
+
+
+
+<p>This blog is in many ways a way for me to <strong>express myself</strong>, to <strong>share my struggles</strong>, to <strong>inspire</strong> and hopefully one day to <strong>achieve a certain level of establishment</strong> like the designers I respect and are inspired by. Hey maybe one day I’m even invited to talk at a TED talk or an event – <strong>the sky isn’t the limit for this dreamer!</strong></p>
+
+
+
+<p>Also in a day and age where short-form copy paste mindless boring content is the mainstream on social media and other platforms, <strong>writing a blog feels truly refreshing.</strong></p>
+
+
+
+<h2 class="wp-block-heading">How I started and how you start a blog now</h2>
+
+
+
+<p>Do you want to start your own blog? Don’t worry this is going to be my <strong>nonsense guide on how the hell I figured this out </strong>so the only thing stopping you from writing a blog about your mom’s cookies online is yourself, also a disclaimer, I’m not talking about stuff that you can easily watch in one of the videos I’m going to link bellow like “How to make a website with WordPress”.</p>
+
+
+
+<h4 class="wp-block-heading">First you will need to figure out two easy things</h4>
+
+
+
+<ul>
+<li>Figure out what you want to talk about</li>
+
+
+
+<li>Figure out if you are using a platform for blogs or if you are making it from scratch</li>
+</ul>
+
+
+
+<p>Figuring out what you are going to talk about should be the easy first step,<strong> just write about something that excites you</strong>. You love to cook with your mom? Write about that! You love to walk your dog? Write about that! </p>
+
+
+
+<p>It’s easy <strong>just find something you love and write about that</strong>, on my own case I knew I wanted to talk about design and stuff related about design because guess what, it’s what I love – easy.</p>
+
+
+
+<p>Choosing a platform becomes the <strong>pain the ass</strong> to be honest thanks to the increasing variety of platforms that exist on the market, so it’s genuinely going to <strong>need some research on your part</strong> but here is a small compilation of my own process and conclusions.</p>
+
+
+
+<ul>
+<li><a href="https://www.blogger.com/"><strong>Blogger</strong></a> if you want something incredibly easy but without much customization (also free if you don’t connect your own domain)</li>
+
+
+
+<li><strong><a href="https://medium.com/">Medium</a> </strong>as either your main option or something secondary where you import your blog posts to hopefully generate more traffic</li>
+
+
+
+<li>Build your own website with a powerful CMS, you have thousands of options here from <a href="http://squarespace.com/"><strong>squarespace</strong></a> to <a href="http://wix.com/"><strong>wix</strong></a> to <a href="http://wordpress.com/"><strong>wordpress</strong></a>, it’s like the multiverse – infinite options.</li>
+</ul>
+
+
+
+<h5 class="wp-block-heading">My current setup consists of a domain bought through <a href="https://www.cloudflare.com/"><strong>cloudflare</strong></a> pointing towards a <a href="https://vrlps.co/edsm8ck/cp"><strong>cloudways</strong></a> server with a <a href="https://wordpress.org/"><strong>wordpress</strong></a> installation.</h5>
+
+
+
+<p>I’m not going to touch on what plugins I’m using and stuff like that because wordpress is a <strong>build your own scenario</strong> platform so it doesn’t make sense.</p>
+
+
+
+<p>Some notes on my setup though, first <a href="https://www.cloudflare.com/"><strong>cloudflare</strong></a> has a small problem if you are on the completely free tier and you buy a domain with them – <strong>you cannot point to other nameservers.</strong> </p>
+
+
+
+<p>This wasn’t a problem on my use case because I wanted to <strong>run my DNS towards <a href="https://www.cloudflare.com/">cloudflare</a> anyways </strong>but it excluded some web hosting providers that for some reason only were allowing me to add this domain if I changed my nameservers. </p>
+
+
+
+<p>Second, this is probably not the cheapest solution but it works for me as I wanted to <strong>host two websites in the same server</strong>, my studio’s website which I haven’t made yet and my blog. Third<strong> I’m not a web developer</strong> so this setup probably isn’t the best – <strong>do your research!</strong></p>
+
+
+
+<p>Also I’m using google analytics, google search console and <strong><a href="https://www.cloudflare.com/">cloudflare</a></strong> to analyze website performance and gmail’s API for the emails that get routed from the contact form (this was a pain to setup). In the future I’m also considering adding google ads in a non-intrusive way.</p>
+
+
+
+<h2 class="wp-block-heading">On a final note, I just wanted to tell that<strong> I’m excited</strong> to write here and that you can of course expect me to keep you updated! More stuff about the studio coming soon!</h2>
+
+
+
+<p>In terms of posting frequency, you can expect <strong>1 – 3 articles per week</strong>, sometimes more sometimes less, let’s go with the flow.</p>
+
+
+
+<p>Also, if you want more content, please do consider checking out my <strong>social media</strong> platforms! Feel free to also leave a comment, I will try to read them all!</p>
+
+
+
+<p>Thank you for reading, I hope you enjoyed my blogging story, understood how I started and hopefully got some motivation and knowledge on how you can start right now!</p>
+
+
+
+<p>You can also contact me through <strong><a href="/contact/">here</a>!</strong> I&#8217;ll try to answer to emails as soon as possible!</p>
+
+
+
+<h4 class="wp-block-heading">Some links (non-affiliate):</h4>
+
+
+
+<ul>
+<li><strong>freeCodeCamp</strong>: <a href="https://www.youtube.com/watch?v=9VPq1JxMfkA&amp;ab_channel=freeCodeCamp.org">How to Make a WordPress Blog and Website – Tutorial for Beginners 2022</a></li>
+
+
+
+<li><a href="https://www.cloudflare.com/"><strong>cloudflare</strong></a></li>
+
+
+
+<li><strong><a href="https://vrlps.co/edsm8ck/cp">cloudways</a></strong> &#8211; Get $25 free hosting credit by signing up with my link.</li>
+</ul>
+<p>The post <a href="/my-blogging-story-why-i-started-and-how-you-can-start-right-now/">My Blogging Story: Why I Started and How You Can Start Right Now</a> appeared first on <a href="/">Hugo&#039;s Notes</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/my-blogging-story-why-i-started-and-how-you-can-start-right-now/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!-- plugin=object-cache-pro client=phpredis metric#hits=522 metric#misses=17 metric#hit-ratio=96.9 metric#bytes=252040 metric#prefetches=0 metric#store-reads=43 metric#store-writes=3 metric#store-hits=46 metric#store-misses=11 metric#sql-queries=10 metric#ms-total=74.91 metric#ms-cache=6.09 metric#ms-cache-avg=0.1354 metric#ms-cache-ratio=8.1 -->

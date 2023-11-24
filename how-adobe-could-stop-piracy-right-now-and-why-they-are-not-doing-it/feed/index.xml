@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: How Adobe could stop piracy right now and why they are not doing it	</title>
+	<atom:link href="/how-adobe-could-stop-piracy-right-now-and-why-they-are-not-doing-it/feed/" rel="self" type="application/rss+xml" />
+	<link>/how-adobe-could-stop-piracy-right-now-and-why-they-are-not-doing-it/</link>
+	<description>Hugo&#039;s Notes: Design and other thoughts from a designer.</description>
+	<lastBuildDate>Fri, 13 Oct 2023 19:49:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+</channel>
+</rss>
+
+<!-- plugin=object-cache-pro client=phpredis metric#hits=352 metric#misses=11 metric#hit-ratio=97.0 metric#bytes=188239 metric#prefetches=0 metric#store-reads=31 metric#store-writes=2 metric#store-hits=23 metric#store-misses=8 metric#sql-queries=4 metric#ms-total=68.33 metric#ms-cache=4.72 metric#ms-cache-avg=0.1476 metric#ms-cache-ratio=6.9 -->

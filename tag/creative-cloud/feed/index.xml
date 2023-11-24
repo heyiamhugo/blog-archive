@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Creative Cloud Archives - Hugo&#039;s Notes</title>
+	<atom:link href="/tag/creative-cloud/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/creative-cloud/</link>
+	<description>Hugo&#039;s Notes: Design and other thoughts from a designer.</description>
+	<lastBuildDate>Fri, 13 Oct 2023 19:49:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/10/cropped-favicon-32x32.webp</url>
+	<title>Creative Cloud Archives - Hugo&#039;s Notes</title>
+	<link>/tag/creative-cloud/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How Adobe could stop piracy right now and why they are not doing it</title>
+		<link>/how-adobe-could-stop-piracy-right-now-and-why-they-are-not-doing-it/</link>
+					<comments>/how-adobe-could-stop-piracy-right-now-and-why-they-are-not-doing-it/#respond</comments>
+		
+		<dc:creator><![CDATA[Hugo]]></dc:creator>
+		<pubDate>Fri, 13 Oct 2023 13:24:51 +0000</pubDate>
+				<category><![CDATA[Design]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Clients]]></category>
+		<category><![CDATA[Creative Cloud]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[Piracy]]></category>
+		<category><![CDATA[Pricing]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">/?p=111</guid>
+
+					<description><![CDATA[<p>Although I have still not fully forgotten their shameful fall through with Pantone, they are genuinely a decent company that listens to their user base, hence why I am writing this article – I am hoping that eventually someone at Adobe reads this understanding how they could reduce or fully stop piracy right now, I [&#8230;]</p>
+<p>The post <a href="/how-adobe-could-stop-piracy-right-now-and-why-they-are-not-doing-it/">How Adobe could stop piracy right now and why they are not doing it</a> appeared first on <a href="/">Hugo&#039;s Notes</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Although I have still not fully forgotten their shameful fall through with <a href="http://pantone.com/"><strong>Pantone</strong></a>, they are genuinely a decent company that <strong>listens to their user base</strong>, hence why I am writing this article – I am hoping that eventually someone at <a href="http://adobe.com/"><strong>Adobe</strong></a> reads this understanding how they could reduce or <strong>fully stop piracy right now</strong>, I also want to explain to you why I believe <strong>they are not doing it</strong>. I’m calling you out <a href="http://adobe.com/"><strong>Adobe!</strong></a></p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/jakob-owens-sxrBantx5Wo-unsplash-1024x683.jpg" alt="An image of a Mac computer related to the topic - Adobe could stop piracy right now" class="wp-image-112" srcset="/wp-content/uploads/2023/10/jakob-owens-sxrBantx5Wo-unsplash-1024x683.jpg 1024w, /wp-content/uploads/2023/10/jakob-owens-sxrBantx5Wo-unsplash-300x200.jpg 300w, /wp-content/uploads/2023/10/jakob-owens-sxrBantx5Wo-unsplash-768x512.jpg 768w, /wp-content/uploads/2023/10/jakob-owens-sxrBantx5Wo-unsplash-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/jakob-owens-sxrBantx5Wo-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Photo by <a href="https://unsplash.com/@jakobowens1?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Jakob Owens</a> on <a href="https://unsplash.com/photos/sxrBantx5Wo?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
+
+
+
+<h4 class="wp-block-heading">Over the years Adobe has truly established itself as the company for creative software – Photoshop, Illustrator, InDesign, Premiere, After Effects… are all amazing pieces of technology that have been improved upon in the last few years… and also amazing pieces of technology that have been pirated over the years.</h4>
+
+
+
+<p>Hello, fellow <strong><a href="http://adobe.com/">Adobe</a></strong> users, something that out of the box we can all agree on is that <strong><a href="http://adobe.com/">Adobe is awesome!</a></strong> I really do like <strong><a href="http://adobe.com/">Adobe</a></strong> but in one way or another, I also understand who pirates their software. Also, a quick disclaimer: I do not support or endorse piracy.</p>
+
+
+
+<p><a href="http://adobe.com/"><strong>Adobe</strong></a> sure has come a long way from its <strong>one time payment</strong> per version model to its current Creative Cloud <strong>subscription</strong> model. </p>
+
+
+
+<p>This change in one way has contributed to the <strong>crackdown on people who pirated their software </strong>&#8211; it introduced more affordable monthly tiers but users completely lost the previous buying system, which from <a href="http://adobe.com/"><strong>Adobe’s</strong></a> side makes sense when we look at it from a business perspective.</p>
+
+
+
+<p>Yes, I know about <strong>perpetual licenses</strong> but they aren’t exactly a replacement, they are targeted toward organizations and offer <strong>just a 1-3-year</strong> plan instead of a <strong>lifetime payment for a version.</strong></p>
+
+
+
+<h2 class="wp-block-heading">Why are Adobe Cloud pricing models increasing piracy and why Adobe is not doing anything about it</h2>
+
+
+
+<p>Let’s take a look at the current <strong><a href="https://www.adobe.com/pt/creativecloud/plans.html?promoid=NV3KR7S1&amp;mv=other">Adobe Cloud pricing system</a> </strong>for individual users:</p>
+
+
+
+<p>All apps &#8211; <strong>36.89 €</strong> first year/ <strong>64.03 €</strong> on renovation</p>
+
+
+
+<p>Individual programs (All except Acrobat, Express, Firefly, Lightroom, Substance 3D Collection, Substance 3D Texturing, Stock, and InCopy) &#8211; <strong>24,59 €</strong></p>
+
+
+
+<p>Photography plan (Photoshop + Lightroom) &#8211; <strong>9,83 €</strong> first year/ <strong>12,29 €</strong> on renovation</p>
+
+
+
+<p>Please take into consideration that these <strong>values</strong> were taken from <strong>Adobe Portugal</strong> at the time of writing this post as a <strong>reference for conversation</strong>. I also think it’s great if you take a quick look at what plans Adobe offers for <strong>companies, schools, students, and ONGs.</strong> From these, I think it’s worth it to also consider the <strong>student plan</strong> for the conversation which is <strong>19,99 € </strong>first year/ <strong>36,89 €</strong> on renovation.</p>
+
+
+
+<h4 class="wp-block-heading">What are the issues with the current pricing system?</h4>
+
+
+
+<p>When we take a look at these values, they don’t seem actually that bad right? Well, if you are an <strong>American or live in a stable country</strong> in terms of the economy like Germany probably these are fully <strong>justified</strong> prices.</p>
+
+
+
+<p>If you like me live in <strong>Portugal</strong> which is still a <strong>developed country but with a terrible economy </strong>or if you live in a <strong>developing country</strong> these values are <strong>not justified!</strong> Personally, I currently <strong>do not own</strong> an Adobe Cloud subscription because I have the software available from the company I’m interning at. Even for small businesses, the prices for the Adobe Cloud subscription are <strong>unsustainable.</strong></p>
+
+
+
+<p>And as a former university student I know a lot of teachers in Portugal who simply tell their students to just <strong>“find it online”</strong> because universities here <strong>neither want to nor are expected </strong>to have the money to spend on Adobe Cloud for their students – <strong>it gets very expensive.</strong></p>
+
+
+
+<p>So as a student here in Portugal and in many other countries, who is enrolled at a university that doesn’t supply Creative Cloud, <strong>you either find a job or resort to piracy.</strong> As someone who had <strong>two jobs</strong>, paying a very high tuition I guarantee you that if I hadn’t been offered an <a href="http://adobe.com/"><strong>Adobe</strong></a> subscription I would probably have resorted to these<strong> same methods.</strong></p>
+
+
+
+<h4 class="wp-block-heading">Adobe’s efforts to combat piracy</h4>
+
+
+
+<p>The Creative Cloud itself was a way to combat piracy, having a cloud-based system for your apps majorly affects the difficulty associated with the technical part of pirating. Adobe itself, if you have a read on their website, <a href="https://www.adobe.com/trust/fraud-prevention.html"><strong>“identify evolving fraud trends, stop known exploits, close gaps, reduce financial impacts, and work hard to keep customers safe in our systems. And we help you verify that your Adobe subscriptions and software are legitimate”.</strong></a></p>
+
+
+
+<p>This combination of these factors <strong>protects their software and protects you</strong> but the major problem is still there – <strong>Creative Cloud isn’t cheap.</strong> If it <strong>isn’t affordable</strong> to the majority of the population people will resort to <strong>“find it online”</strong>, and then we return to the same problem how <a href="http://adobe.com/"><strong>Adobe</strong></a> could stop piracy right now and why they are not doing it.</p>
+
+
+
+<h4 class="wp-block-heading">Why is piracy bad for Adobe and for you</h4>
+
+
+
+<p>Although it isn’t as easy as it used to be there are still one or two reputable pirates out there putting out <strong>every single version, every single year.</strong></p>
+
+
+
+<p>To put it in very simple terms <strong>piracy can degrade a brand very easily,</strong> versions of your software being spit out with <strong>malware </strong>and other types of viruses eventually affect your company. <strong>Protecting your developers and your product should be a priority.</strong></p>
+
+
+
+<p>It’s <strong>illegal</strong> of course but there is also a <strong>loss of revenue</strong> which inherently affects <strong>innovation</strong> and <strong>support,</strong> <strong>security risks</strong> are also a problem with <strong>piracy</strong> &#8211; data breaches, identity theft, and other cybercrimes are just a <strong>few steps away from your well rounded hacker.</strong></p>
+
+
+
+<p>But probably the worst part is that <strong>it hurts the industry:</strong> Widespread piracy can harm the software industry as a whole, as I’ve mentioned <strong>discouraging innovation</strong> and negatively impacting software developers and their <strong>livelihoods.</strong></p>
+
+
+
+<p>Personally, this to me is a problem that could be easily solved with a few changes to Adobe’s pricing strategy but more on that later.</p>
+
+
+
+<h2 class="wp-block-heading">Piracy is bad for companies and for users but a lot of companies use this as tactical marketing.</h2>
+
+
+
+<p>Let me be the <strong>devil’s advocate</strong> here, put my <strong>tinfoil hat</strong> and comment a little bit on this. The main reason I think <a href="http://adobe.com/"><strong>Adobe</strong></a> recognizes piracy and <strong>they claim</strong> they are doing something to stop it but they are still not doing it is because <strong>it generates clients.</strong></p>
+
+
+
+<p>People who <strong>don’t have the means now</strong> to pay for your subscription <strong>are going to have them later</strong> and become clients, this is also one of things I think <a href="http://adobe.com/"><strong>Adobe</strong></a> takes into consideration when making their prices.</p>
+
+
+
+<h4 class="wp-block-heading">If you look at Adobe’s history they grew a lot because of piracy, it’s basically free marketing for them and a better trial format. Who doesn’t remember those old videos of a random person writing on a notepad on YouTube teaching how to download and install Adobe – I guarantee a lot of those people who used to watch these videos are Adobe’s client base today.</h4>
+
+
+
+<p>Writing this article and doing some research I came a cross a thread on <a href="http://quora.com/"><strong>Quora</strong></a> and a comment by <a href="https://www.quora.com/How-is-Adobe-detecting-pirated-versions-of-its-software-on-peoples-computers"><strong>Jahil Nelson</strong></a> that <strong>perfectly resumes this.</strong></p>
+
+
+
+<p>“The only thing <strong>worse</strong> than a bunch of people pirating your software is …<strong> nobody pirating your software.</strong> It’s no coincidence that the <strong>highest</strong> pirated software is Microsoft Windows and Word, while Microsoft is also the one of the richest companies in the world. <strong>It sounds like a paradox but the more people who know your software ecosystem, by paid means or otherwise, the more successful your platform is likely to be.”</strong></p>
+
+
+
+<p>“…Those people are all <strong>potential future customers </strong>and if or when they cross over to successful artists, they should pay for software. But along the way, it’s actually in Adobes interest that there is a <strong>path for them to crack their software.</strong> It shouldn’t be too easy, but easy enough for anyone who is willing to make that extra effort. <strong>I know this because I was once a 17-year-old kid with a dream and no money.</strong> And if Adobe wasn’t hackable and I had to use something else instead, <strong>I would have never had a reason to learn their software and eventually join that ecosystem</strong> which I now pay into and influence the companies I have worked for to do as well.”</p>
+
+
+
+<h2 class="wp-block-heading">How can Adobe stop piracy for good</h2>
+
+
+
+<p>I think they key to this is <strong>changing the pricing system, make it more affordable!</strong> Even better make it <strong>100% free</strong> for all students. But instead of just complaining let me make a proper suggestion to <strong><a href="http://adobe.com/">Adobe</a>:</strong></p>
+
+
+
+<p>Reintroduce the option for clients to buy specific versions as one time payments – <strong>299.99 €</strong> for individual programs, <strong>799.99 €</strong> for all the programs in the Creative Cloud for that version.</p>
+
+
+
+<p>All apps &#8211; <strong>39.99 €</strong> first year/ <strong>59.99 €</strong> on renovation</p>
+
+
+
+<p>All Individual programs &#8211; <strong>19,99 €</strong></p>
+
+
+
+<p>Photography plan (Photoshop + Lightroom) &#8211; <strong>9,99 €</strong></p>
+
+
+
+<p>Introduce New Plans alongside the Photography Plan: Designer Plan (Photoshop, InDesign, Illustrator) and Videography Plan (Premiere, After Effects, Media Encoder) – <strong>12.99 €</strong></p>
+
+
+
+<p><strong>Free</strong> for all students or at a <strong>50%</strong> discount</p>
+
+
+
+<p><strong>Free</strong> for all ONG’S or at a <strong>50%</strong> discount</p>
+
+
+
+<p>I think <a href="http://adobe.com/"><strong>Adobe</strong></a> should provide the chance for people to <strong>contact them and expose their situation</strong> in order to get individualized plans (people from developing countries, special cases, etc).</p>
+
+
+
+<h2 class="wp-block-heading">On a final note, this article wasn’t made to try to offend Adobe, I just gave honest feedback about what could be done and I hope they listen to it</h2>
+
+
+
+<p>If you have any opinions on this topic <strong>please leave a comment,</strong> this type of article is made in order to <strong>start a conversation,</strong> not to be a monologue! I will try to read and answer them all!</p>
+
+
+
+<p>If you are new to the blog, I recommend reading this <a href="/my-blogging-story-why-i-started-and-how-you-can-start-right-now/"><strong>article!</strong></a></p>
+
+
+
+<p>Also, if you want <strong>more content,</strong> please do consider checking out my <strong>social media </strong>platforms!</p>
+
+
+
+<p>Thank you for reading, I hope you enjoyed!</p>
+
+
+
+<p>You can also contact me through <a href="/contact/"><strong>here!</strong></a> I’ll try to answer emails as soon as possible!</p>
+<p>The post <a href="/how-adobe-could-stop-piracy-right-now-and-why-they-are-not-doing-it/">How Adobe could stop piracy right now and why they are not doing it</a> appeared first on <a href="/">Hugo&#039;s Notes</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-adobe-could-stop-piracy-right-now-and-why-they-are-not-doing-it/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!-- plugin=object-cache-pro client=phpredis metric#hits=498 metric#misses=17 metric#hit-ratio=96.7 metric#bytes=242080 metric#prefetches=0 metric#store-reads=43 metric#store-writes=3 metric#store-hits=38 metric#store-misses=11 metric#sql-queries=10 metric#ms-total=74.90 metric#ms-cache=5.72 metric#ms-cache-avg=0.1271 metric#ms-cache-ratio=7.6 -->

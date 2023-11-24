@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized Archives - Hugo&#039;s Notes</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/category/uncategorized/</link>
+	<description>Hugo&#039;s Notes: Design and other thoughts from a designer.</description>
+	<lastBuildDate>Fri, 24 Nov 2023 12:20:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/10/cropped-favicon-32x32.webp</url>
+	<title>Uncategorized Archives - Hugo&#039;s Notes</title>
+	<link>/category/uncategorized/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>I&#8217;m killing my blog</title>
+		<link>/im-killing-my-blog/</link>
+					<comments>/im-killing-my-blog/#respond</comments>
+		
+		<dc:creator><![CDATA[Hugo]]></dc:creator>
+		<pubDate>Fri, 24 Nov 2023 12:19:56 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=233</guid>
+
+					<description><![CDATA[<p>Hey! If you have been reading my blog I would like to thank you. Today I will officially kill this website, don&#8217;t worry the blog as it stands will be archived on a github repository. The main reason I&#8217;m doing this is because I&#8217;ve achieved my 30 plus goal of running a blog, I will [&#8230;]</p>
+<p>The post <a href="/im-killing-my-blog/">I&#8217;m killing my blog</a> appeared first on <a href="/">Hugo&#039;s Notes</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Hey! If you have been reading my blog I would like to thank you. Today I will officially kill this website, don&#8217;t worry the blog as it stands will be archived on a github repository.</p>
+
+
+
+<p>The main reason I&#8217;m doing this is because I&#8217;ve achieved my 30 plus goal of running a blog, I will still be writing but I will move to writing articles on my linkedin profile here: https://www.linkedin.com/in/heyiamhugo/</p>
+
+
+
+<p>This will allow me to save more money and to hopefully increase engagement.</p>
+
+
+
+<p>Thank you for reading here and I&#8217;ll see ya on linkedin 😉</p>
+<p>The post <a href="/im-killing-my-blog/">I&#8217;m killing my blog</a> appeared first on <a href="/">Hugo&#039;s Notes</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/im-killing-my-blog/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!-- plugin=object-cache-pro client=phpredis metric#hits=438 metric#misses=14 metric#hit-ratio=96.9 metric#bytes=208832 metric#prefetches=0 metric#store-reads=38 metric#store-writes=3 metric#store-hits=27 metric#store-misses=11 metric#sql-queries=10 metric#ms-total=66.41 metric#ms-cache=5.33 metric#ms-cache-avg=0.1334 metric#ms-cache-ratio=8.0 -->

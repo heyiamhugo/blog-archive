@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>designers Archives - Hugo&#039;s Notes</title>
+	<atom:link href="/tag/designers/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/designers/</link>
+	<description>Hugo&#039;s Notes: Design and other thoughts from a designer.</description>
+	<lastBuildDate>Wed, 08 Nov 2023 15:02:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/10/cropped-favicon-32x32.webp</url>
+	<title>designers Archives - Hugo&#039;s Notes</title>
+	<link>/tag/designers/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What does the future of design look like?</title>
+		<link>/what-does-the-future-of-design-look-like/</link>
+					<comments>/what-does-the-future-of-design-look-like/#respond</comments>
+		
+		<dc:creator><![CDATA[Hugo]]></dc:creator>
+		<pubDate>Wed, 08 Nov 2023 15:00:45 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[augmented reality]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[designers]]></category>
+		<category><![CDATA[Future]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[people]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Typography]]></category>
+		<category><![CDATA[virtual reality]]></category>
+		<guid isPermaLink="false">/?p=215</guid>
+
+					<description><![CDATA[<p>What does the future of design look like? I don’t know about you but recently, this question has been on my mind. With this article, I will try to share some of my thoughts and get you to share yours hopefully. Photo by Possessed Photography on Unsplash Hello designers, how many of us think about [&#8230;]</p>
+<p>The post <a href="/what-does-the-future-of-design-look-like/">What does the future of design look like?</a> appeared first on <a href="/">Hugo&#039;s Notes</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>What does the future of design look like?</strong> I don’t know about you but recently, <strong>this question has been on my mind.</strong> With this article, I will try to share some of my thoughts and get you to share yours hopefully.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="737" src="/wp-content/uploads/2023/11/possessed-photography-jIBMSMs4_kA-unsplash-1-1024x737.jpg" alt="Photo of a robotic hand" class="wp-image-216" srcset="/wp-content/uploads/2023/11/possessed-photography-jIBMSMs4_kA-unsplash-1-1024x737.jpg 1024w, /wp-content/uploads/2023/11/possessed-photography-jIBMSMs4_kA-unsplash-1-300x216.jpg 300w, /wp-content/uploads/2023/11/possessed-photography-jIBMSMs4_kA-unsplash-1-768x553.jpg 768w, /wp-content/uploads/2023/11/possessed-photography-jIBMSMs4_kA-unsplash-1-1536x1106.jpg 1536w, /wp-content/uploads/2023/11/possessed-photography-jIBMSMs4_kA-unsplash-1-2048x1474.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Photo by <a href="https://unsplash.com/@possessedphotography?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Possessed Photography</a> on <a href="https://unsplash.com/photos/closeup-photo-of-white-robot-arm-jIBMSMs4_kA?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
+
+
+
+<p>Hello designers, <strong>how many of us think about the future a lot?</strong> I know I do, it&#8217;s probably a personal thing but thinking about the future is something I do quite often. Lately, my head has been contemplating <strong>the future of our field,</strong> particularly after I listened to the <a href="https://www.creativeboom.com/podcast/stefan-sagmeister/"><strong>99<sup>th</sup> episode of the Creative Boom Podcast with Stefan Sagmeister.</strong></a> (Highly recommend it)</p>
+
+
+
+<p>In this article <strong>I’m not answering to “What does the future of design look like?”</strong> but instead to start a conversation. So, if you feel like it <strong>leave a comment below!</strong></p>
+
+
+
+<h2 class="wp-block-heading">The current state of design</h2>
+
+
+
+<p>Design today has suffered many changes, <strong>we live in a mostly digital age,</strong> and as such <strong>the supports we play with are vastly different.</strong> To me, it&#8217;s interesting to look around and see <strong>different technologies coexist,</strong> you can read a newspaper physically or do it on your phone, and the same for books and many other types of mediums, even other types of products have changed – for example Car UI, <strong>you can drive a 90s car without barely any type of UI or drive the latest generation of cars with <a href="https://www.edenspiekermann.com/whitepaper/how-to-design-in-car-ux-that-doesnt-suck/">incredibly designed car UI.</a></strong> This coexistence is very interesting to me, and I think when I look at the current state of design it&#8217;s interesting the vast types of mediums we have at our disposal.</p>
+
+
+
+<p>Design today has fundamentally changed, when we look at history,<strong> we see how it has evolved from a discipline that no one knew to one of the biggest fields of study</strong> <strong>in the world.</strong> Obviously, this also translated into an <strong>increase in competition.</strong></p>
+
+
+
+<p>However, a <strong>side-effect </strong>related to the evolution of technology is how it has become <strong>more accessible. </strong>Thanks to the dawn of the internet era and the development of software, <strong>what was once a specialized area filled with few but incredibly talented people has now become an increasingly competitive field with a lot of untalented unknowledgeable people producing lackluster work.</strong></p>
+
+
+
+<h4 class="wp-block-heading">Imagine if suddenly a bunch of courses and tools were invented and introduced to make a doctor’s job easier but as a consequence, everyone thought that just by learning how to clean a wound they instantly could become a doctor. That’s how the landscape of design is today.</h4>
+
+
+
+<p>Although a bit exaggerated, I’ve created this comparison as a <strong>way to explain to you my view</strong> on a lot of design projects and people. <strong>I don’t have anything against it, but it creates a lot of problems, </strong>particularly the devaluation of a designer’s job.</p>
+
+
+
+<p>The most recent innovation that was talked about by everyone and created a lot of buzz in several industries without a doubt has been AI, <strong>probably the biggest creation in the last 10 years.</strong></p>
+
+
+
+<p>In design AI created kind of a panic, we saw a lot of the people previously mentioned feel threatened and a lot of businesses replacing design and marketing teams at a very fast rate. But one has to ask, <strong>is this a bad thing?</strong> I will talk about this a bit later but to me, it isn’t such a big problem.</p>
+
+
+
+<h2 class="wp-block-heading">Looking into the past to project the future</h2>
+
+
+
+<p>I think its <strong>very smart to look into the past to project the future,</strong> this is even more valid when we talk about technology.</p>
+
+
+
+<p>Remember about the<strong> buzz </strong>when <strong>personal computers</strong> were first introduced? <strong>It completely changed the design landscape,</strong> what once took <strong>hours to do through tedious analog processes,</strong> was now <strong>possible to do with a few clicks,</strong> without you having to get your hands dirty. <strong>Isn’t this the same with AI?</strong></p>
+
+
+
+<p>AI like personal computers <strong>scared a lot of people</strong> but in my view in the near future<strong> it will become a nearly invaluable piece of technology</strong> for many people’s lives. Even software manufacturers have already adapted to the times starting to offer a lot of AI based tools, like for example <strong>Photoshop’s generative AI tool.</strong></p>
+
+
+
+<h4 class="wp-block-heading">Like the personal computer or the internet, a lot of people freaked out with AI but eventually, those who accept these tools grow to outdo their colleagues who don’t. </h4>
+
+
+
+<p>So, I’m not saying that you should use AI but be smart and look into it, so like many designers in the past who didn’t you don’t fall into oblivion.</p>
+
+
+
+<h2 class="wp-block-heading">Will AI replace designers?</h2>
+
+
+
+<p>Throughout this article, I’ve pretty much given my opinion on AI and how it’s affecting the world but the top question is <strong>if it’s going to replace us?</strong></p>
+
+
+
+<p>In my humble opinion it will replace a lot of work that you didn’t want to be involved in, <strong>a lot of clients who want cheap solutions</strong> that know nothing about design probably will use AI.</p>
+
+
+
+<p>The clients who realize design is a<strong> human based field that creates products for human based clients </strong>will dismiss AI. This is already happening but I do believe it will only increase in the future.</p>
+
+
+
+<h4 class="wp-block-heading">Inherently this means, less bad-quality clients, more people interested in your services, more competition, and probably more money.</h4>
+
+
+
+<p>So those who are good will <strong>undoubtedly stand out </strong>against a plethora of average unhuman work.</p>
+
+
+
+<p>In the future<strong> AI will only replace bad clients,</strong> <strong>not good quality designers</strong> who take clients through an extensive process that culminates in the final result. At the end of the day,<strong> design is very human and the end product is for humans so replacement by AI isn’t an option</strong> for those who are serious about their business.</p>
+
+
+
+<h2 class="wp-block-heading">Is design a good career for the future?</h2>
+
+
+
+<p>Honestly, I feel <strong>praise for good designers will only increase </strong>as we move to an age of <strong>pure digital trash.</strong></p>
+
+
+
+<p>The more you look into developing your <strong>design skills and soft-skills</strong> the better. </p>
+
+
+
+<h4 class="wp-block-heading">Soft-skills in particular will be increasingly more important. The more you understand your client, and the more you build a human-level relationship the better, particularly for the end product.</h4>
+
+
+
+<p>I also expect <strong>designer salaries and project budgets </strong>will in general increase, <strong>alongside with the competition</strong> for a job position. This will be a direct consequence of lower-budget clients moving to AI-based tools.</p>
+
+
+
+<p>In my view, <strong>design will be a good career for the future</strong> as we continue to move to an even more digitalized industry. <strong>But,</strong> beware of the few points I talked about,<strong> the increase in competition and lackluster work will be very real, and you will have to seek inspiration in unusual places and possibly fight harder for an average job.</strong></p>
+
+
+
+<h2 class="wp-block-heading">What are the biggest problems facing designers in the future?</h2>
+
+
+
+<p>The world we are heading towards seems a much better place in many areas, <strong><a href="https://sagmeister.com/work/now-is-better-book/">Stefan Sagmeister’s new book put this into perspective for me,</a> </strong>and I’m excited about the possibilities that we will have when AI and other technologies such as <strong>virtual and augmented reality</strong> play a bigger role in our lives.</p>
+
+
+
+<h4 class="wp-block-heading">I feel like designers will have a very important role in the successful communication of world issues that become either worse or less mentioned in media.</h4>
+
+
+
+<p>A long time from now I believe<strong> traditional media will completely change</strong> alongside<strong> traditional advertising</strong> making designers rethink new ways to communicate.</p>
+
+
+
+<p><strong>Motion will become an even bigger part of our day-to-day, infiltrating itself into all the design fields.</strong> Static content will either disappear or become a very point of focus.</p>
+
+
+
+<p>Social media will reach a <strong>blow-up point </strong>and this is when a new formula will appear, as such <strong>we will have to readapt.</strong></p>
+
+
+
+<p><strong>Typeface design and major typefaces will have to adapt</strong> as we move to an age of further developed augmented and virtual reality.</p>
+
+
+
+<p>We are eventually going to reach a point in which the <strong>current brutalist and maximalist trends will disappear in favor of a much more depurated approach</strong> from the days of designers such as <strong>Massimo Vignelli.</strong></p>
+
+
+
+<h2 class="wp-block-heading">What does the future look like for graphic designers?</h2>
+
+
+
+<p>To me the future looks bright,<strong> I do believe traditional graphic design will change,</strong> perhaps our work category will change definitely to <strong>communication designer</strong> or<strong> visual designer, </strong>we already see a lot of these terms being used frequently.</p>
+
+
+
+<p>Subsequently, education in design will change, and a <strong>focus on motion, product, and digital design </strong>seems to be an obvious update to the standard curriculum. </p>
+
+
+
+<h4 class="wp-block-heading">Perhaps the introduction of terms such as innovation in design or human-to-human design will become classes.</h4>
+
+
+
+<p>With the constant development of technology, <strong>we face exciting new challenges every day,</strong> it will be our role like those who came before<strong> to adapt to a new age.</strong></p>
+
+
+
+<p>I’m excited to see the future of design and although it will, to me, be more competitive it will also create <strong>interesting new opportunities</strong> to communicate.</p>
+
+
+
+<h2 class="wp-block-heading">On a final note, this article is very speculative but it was written to kickstart an important conversation</h2>
+
+
+
+<p>As people involved in this industry, we need to be able to start and maintain conversations about the future. <strong>Get involved.</strong></p>
+
+
+
+<p>If you are interested in reading more, please check out <a href="/5-must-read-books-for-designers/"><strong>my last article.</strong></a></p>
+
+
+
+<p>Please write a thoughtful comment below, I will try to answer all of them!</p>
+
+
+
+<p>Stay safe.</p>
+<p>The post <a href="/what-does-the-future-of-design-look-like/">What does the future of design look like?</a> appeared first on <a href="/">Hugo&#039;s Notes</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/what-does-the-future-of-design-look-like/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!-- plugin=object-cache-pro client=phpredis metric#hits=513 metric#misses=17 metric#hit-ratio=96.8 metric#bytes=247312 metric#prefetches=0 metric#store-reads=43 metric#store-writes=3 metric#store-hits=43 metric#store-misses=11 metric#sql-queries=10 metric#ms-total=74.73 metric#ms-cache=5.79 metric#ms-cache-avg=0.1287 metric#ms-cache-ratio=7.8 -->
